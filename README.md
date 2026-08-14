@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![Tool](https://img.shields.io/badge/Deck-20%20Slides-informational)
 
+![PhonePe Case Study](Cover.png)
+
 A product/business-analysis case study on scoping a **group bill-splitting feature** for PhonePe (500M+ registered users) — starting from a messy, mid-flight team brief and working through to a release-ready, stakeholder-aligned MVP scope.
 
 ---
