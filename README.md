@@ -96,11 +96,12 @@ Three release-ready stories, each with **Happy Path / Sad Path / Edge Case** Giv
 
 ---
 
-## 🔗 Connect
+## 👤 About
 
-**Yatharth Aphale**
-**Business Analyst**
-🔗 [LinkedIn](https://linkedin.com/in/yatharth-aphale-338b203b8) · 💻 [GitHub](https://github.com/Yatharth-2206)
+Built by **Yatharth Aphale** as part of a hands-on **Business & Data Analytics Portfolio**.
 
----
-*This case study was built as a portfolio exercise to practice structured problem framing and requirements definition for a real-world fintech feature.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yatharth-aphale-338b203b8)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/Yatharth-2206)
+
+*⭐ If you found this useful, drop a star — it helps others discover the project!*
+
